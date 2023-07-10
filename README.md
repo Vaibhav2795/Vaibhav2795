@@ -18,8 +18,10 @@
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/vaibhav2795)
+[![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css)](https://github.com/vaibhav2795)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/vaibhav2795)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/vaibhav2795)
+[![NODEJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://github.com/vaibhav2795)
 [![MONGO DB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/vaibhav2795)
 
 ### OS
