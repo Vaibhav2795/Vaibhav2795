@@ -23,6 +23,7 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/vaibhav2795)
 [![NODEJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://github.com/vaibhav2795)
 [![MONGO DB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/vaibhav2795)
+[![MONGO DB](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/vaibhav2795)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/vaibhav2795)
